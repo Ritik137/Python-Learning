@@ -17,3 +17,5 @@ Ans. It is mainly used when one to write block of code but dont want to implemen
 #     if i == 8:
 #         break
 #     print(i)
+
+# print number 1 to 50 stop when the sum of the printed number is greater than 50
