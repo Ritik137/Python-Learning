@@ -71,6 +71,7 @@ nested if
 
 # ----------------------------------------------------------------------------------------------------
 # 04. take a number if it is even , check whether it is divisible by 4. if it is odd check whether it is divisible by 3.
+import utils.session
 num = int(input("Enter a number: "))
 if num % 2 ==0:
     if num % 4 ==0:
